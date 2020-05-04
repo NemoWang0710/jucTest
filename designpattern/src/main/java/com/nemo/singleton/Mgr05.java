@@ -1,4 +1,4 @@
-package com.nemo;
+package com.nemo.singleton;
 
 public class Mgr05 {
 

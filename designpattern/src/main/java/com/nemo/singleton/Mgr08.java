@@ -1,4 +1,4 @@
-package com.nemo;
+package com.nemo.singleton;
 
 /**
  * 不仅可以坚决线程安全,还可以防止反序列化

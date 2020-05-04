@@ -1,4 +1,4 @@
-package com.nemo;
+package com.nemo.singleton;
 
 public class Main {
 //    Mgr01 mgr  = Mgr01.getInstance();

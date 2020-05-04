@@ -1,4 +1,4 @@
-package com.nemo;
+package com.nemo.singleton;
 
 /**
  * 静态内部类方式

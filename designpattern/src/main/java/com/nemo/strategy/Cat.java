@@ -1,6 +1,8 @@
 package com.nemo.strategy;
 
-public class Cat implements Comparable<Cat>{
+import java.util.Comparator;
+
+public class Cat implements Comparable<Cat> {
     int weight;
     int height;
     public Cat (int weight,int height){

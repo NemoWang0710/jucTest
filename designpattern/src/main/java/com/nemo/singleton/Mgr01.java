@@ -1,4 +1,4 @@
-package com.nemo;
+package com.nemo.singleton;
 
 /**
  * 饿汉式
